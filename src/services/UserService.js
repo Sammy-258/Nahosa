@@ -105,3 +105,4 @@ exports.findUnverifiedUsers = () => {
 exports.sendVerificationEmail = (email) => {
     console.log(`verification email has been sent to ${email}`)
 }
+
